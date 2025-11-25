@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "406224766004",
+    "project_id": "budgetmaster-c5c1d",
+    "storage_bucket": "budgetmaster-c5c1d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406224766004:android:439451c5e25ac0e567b661",
+        "android_client_info": {
+          "package_name": "com.budgetmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406224766004-ilh97hk596895cvesotgiltmbqlu0j0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.budgetmaster",
+            "certificate_hash": "2522dbc4d0f69e816f93c0435c4379f4aa0622e5"
+          }
+        },
+        {
+          "client_id": "406224766004-t2q4bf6sibkvrt4im7f8m6c5e4k687fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiEkkTfFxyPggdziCpEV4BgbAiiBf6zjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406224766004-t2q4bf6sibkvrt4im7f8m6c5e4k687fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
