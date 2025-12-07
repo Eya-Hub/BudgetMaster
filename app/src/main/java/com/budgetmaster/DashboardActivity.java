@@ -229,6 +229,8 @@ public class DashboardActivity extends AppCompatActivity {
         }
     }
 
+
+
     private void updateTotals() {
         try {
             // Get totals from database
@@ -281,10 +283,8 @@ public class DashboardActivity extends AppCompatActivity {
     }
 
     private void openProfile() {
-        String username = sessionManager.getUsername();
-
-        // For now just show user info
-        Toast.makeText(this, "Logged in as: " + username, Toast.LENGTH_SHORT).show();
+        Intent intent = new Intent(DashboardActivity.this, ProfileActivity.class);
+        startActivity(intent);
     }
 
     @Override
